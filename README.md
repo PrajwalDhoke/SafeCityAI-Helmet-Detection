@@ -32,7 +32,7 @@ The model detects helmet violations on real CCTV footage with bounding boxes dra
 | Epochs | 50 |
 | Architecture | YOLOv5s (Transfer Learning from COCO) |
 
-![Training Results](Screenshot(275).png)
+![Training Results](Screenshot (275).png)
 
 ---
 
