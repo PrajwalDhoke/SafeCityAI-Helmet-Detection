@@ -127,7 +127,7 @@ Features:
 
 **1. Clone the repo:**
 ```bash
-git clone https://github.com/yourusername/SafeCityAI-Helmet-Detection
+git clone https://github.com/PrajwalDhoke/SafeCityAI-Helmet-Detection
 cd SafeCityAI-Helmet-Detection
 ```
 
